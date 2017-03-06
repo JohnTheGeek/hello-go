@@ -1,1 +1,3 @@
 # hello-go
+
+Johnno is a senior software guru...
